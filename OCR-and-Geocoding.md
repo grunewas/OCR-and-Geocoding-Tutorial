@@ -10,8 +10,8 @@ Once your information has been converted to text, you can run it through a varie
 ### OCR of Paragraph Text
 
 Take a PDF document that is text in paragraph form.
- - Go to [Free Online OCR Service](https://www.onlineocr.net/)
- - Upload the PDF image and tell it to export at a .txt file
+ - Go to [Free Online OCR Service](https://www.onlineocr.net/).
+ - Upload the PDF image and tell it to export at a .txt file.
 
 Great. Now the text is ready to edit. You may have to clean a lot of it depending on how good the image was and how good the software was at reading it. Languages other than English often require more cleaning.
 
